@@ -3,6 +3,8 @@
 ## Contexto
 Bem-vindo ao Dashboard de Desempenho Escolar, uma poderosa ferramenta que oferece uma visão abrangente do desempenho dos estudantes e pode impulsionar a eficiência e a qualidade do ensino em nossa escola. Este dashboard foi projetado para capacitar educadores, administradores e tomadores de decisão com informações valiosas que podem ser usadas para promover o sucesso dos alunos e aprimorar o ambiente de aprendizado.
 
+![](Intro-image.png)
+
 ### 1) Maximizando o Potencial dos Estudantes
 Em um mundo cada vez mais orientado por dados, o sucesso escolar não é apenas sobre ensinar, mas também sobre entender. O nosso dashboard permite que a escola:
 
@@ -34,3 +36,5 @@ Aloque recursos de maneira mais eficaz, concentrando esforços onde são mais ne
 * Como é a divisão de alunos do gênero masculino e feminino?
 * Quais são as médias das notas dos alunos separados por categorias?
 * Qual a visão geral de como está o andamento dos alunos?
+
+### Veja o Painel em: https://app.powerbi.com/groups/me/reports/1fc10872-966d-4297-a15b-458cca784b70/ReportSection?experience=power-bi
